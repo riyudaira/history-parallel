@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --color-hist-text: #482019;
+  --color-hist-bg: #efddd5;
+  --color-hist-accent: #cf7f72;
+}
+body {
+  color: var(--color-hist-text);
+  background-color: var(--color-hist-bg);
+  overflow-x: hidden;
+}
+body,
+select,
+button {
+  font-family: var(--font-serif), serif;
+}
