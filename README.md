@@ -8,11 +8,11 @@
 
 ①　トップ画面->世紀で検索
 
-<video src="https:" loop muted autoplay playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/d58d9560-f640-4910-b3ff-88052dae8dc7" loop muted autoplay playsinline width="100%"></video>
 
 ②　トップ画面->地域別検索画面
 
-<video src="https:" loop muted autoplay playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/d3ec0443-11ae-4323-9dc5-f62baeea2efc" loop muted autoplay playsinline width="100%"></video>
 
 **特徴**
 
